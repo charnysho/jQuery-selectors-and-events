@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Comic Neue', cursive;
+  font-size: 90px;
+}
+
+p {
+  font-family: 'Gotu', sans-serif;
+}
+
+#dropdown-menu {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: aquamarine;
+}
+
+.image {
+  float: left;
+  width: 250px;
+  height: 350px;
+}
+
+.image h2 {
+  font-size: 20px;
+  font-family: 'Gotu', sans-serif;
+  padding: 5px;
+}
+
+.image p {
+  font-size: 15px;
+  padding: 10px;
+}
