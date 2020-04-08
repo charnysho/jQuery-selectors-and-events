@@ -1,0 +1,17 @@
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+main {
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header {
+  text-align:center;
+}
